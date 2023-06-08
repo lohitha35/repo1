@@ -4,4 +4,4 @@ python
 sql
 selenium
 testng
-cucumber
+API testing
